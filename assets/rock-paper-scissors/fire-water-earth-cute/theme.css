@@ -1,0 +1,25 @@
+#game {
+  color: black;
+  background-color: #8e94a4;
+  background-size: cover;
+}
+
+.score {
+  color: #f15a26;
+}
+
+#replay-button {
+  width: 160px;
+  height: 30px;
+  background-color: #f15a26;
+  border: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 20px;
+  color: white;
+}
+
+.title {
+  color: #a55242;
+}
